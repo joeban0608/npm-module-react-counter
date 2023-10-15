@@ -1,5 +1,5 @@
 {
-  "include": ["src", "src/**/*.module.css"],
+  "include": ["src", "src/**/*.module.scss"],
   "exclude": ["dist", "node_modules"],
   "compilerOptions": {
     "module": "esnext",
