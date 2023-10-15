@@ -1,6 +1,6 @@
 {
   "name": "react-counter-joeban0608",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "test npm react component",
   "main": "dist/index.js",
   "files": [
@@ -36,6 +36,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "rimraf": "^5.0.5"
+    "rimraf": "^5.0.5",
+    "sass": "^1.69.3"
   }
 }
